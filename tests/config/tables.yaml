@@ -1,0 +1,7 @@
+tables:
+    table1:
+        table_setting_one: table_one_whatever
+        table_setting_two: table_two_whatever
+    table2:
+        table_setting_one: table_two_whatever
+        table_setting_two: table_two_whatever
